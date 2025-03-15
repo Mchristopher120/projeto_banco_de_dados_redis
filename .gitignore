@@ -6,7 +6,6 @@ pnpm-lock.yaml
 
 # 🔹 Pastas de build e cache
 dist/
-build/
 .cache/
 .next/
 out/
